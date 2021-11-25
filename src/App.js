@@ -10,7 +10,10 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="footer">Coded by Nermine Obeng</footer>
+        <footer className="footer">
+          Coded by Nermine Obeng. Open-sourced on{" "}
+          <a href="https://github.com/Nemobeng/dictionary-project">Github</a>.
+        </footer>
       </div>
     </div>
   );
