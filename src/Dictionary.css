@@ -1,7 +1,7 @@
 body {
   font-family: "Inter", sans-serif;
   font-weight: 300;
-  background: url(books.jpg);
+  background: #c2a7e0;
   background-size: 100%;
 }
 
@@ -14,7 +14,7 @@ header {
   font-size: 40px;
   text-align: center;
   font-weight: 600;
-  color: #3a0d0d;
+  color: #000000;
   margin-top: -10px;
 }
 
@@ -42,16 +42,16 @@ h2 {
 footer {
   font-size: 12px;
   text-align: center;
-  border: 8px double rgba(56, 15, 15, 0.767);
+  border: 8px double rgba(73, 24, 85, 0.815);
   border-radius: 15px;
-  background-color: #e7c395e7;
+  background-color: #f1e8f6e7;
   margin: -10px 140px 5px;
   padding: 3px;
 }
 
 footer a {
   text-decoration: none;
-  color: rgb(49, 16, 16);
+  color: rgb(31, 12, 36);
 }
 
 footer a:hover {
