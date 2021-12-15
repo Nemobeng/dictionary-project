@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
         <header>DICTIONARY</header>
         <main>
-          <Dictionary defaultKeyword="Hello" />
+          <Dictionary defaultKeyword="fire" />
         </main>
         <footer className="footer">
           Coded by Nermine Obeng. Open-sourced on{" "}

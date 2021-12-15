@@ -42,6 +42,7 @@ export default function Dictionary(props) {
                 type="search"
                 placeholder="Enter word"
                 onChange={handleKeywordChange}
+                defaultValue={props.defaultKeyword}
               ></input>
             </form>
             <div className="hint">
