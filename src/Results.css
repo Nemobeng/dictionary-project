@@ -1,9 +1,9 @@
 section {
-  background-color: #f1e8f6;
+  background-color: #f9f2fb;
   color: rgb(31, 12, 36);
   margin-bottom: 20px;
   padding: 20px 10px;
-  border: 8px double rgba(73, 24, 85, 0.815);
+  box-shadow: 7px 7px 7px rgba(64, 2, 100, 0.1);
   border-radius: 15px;
   font-size: 14px;
 }

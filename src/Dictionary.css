@@ -1,7 +1,7 @@
 body {
   font-family: "Inter", sans-serif;
   font-weight: 300;
-  background: #a377d6;
+  background: #f5e7ff;
   background-size: 100%;
 }
 
@@ -42,11 +42,11 @@ h2 {
 footer {
   font-size: 12px;
   text-align: center;
-  border: 8px double rgba(73, 24, 85, 0.815);
+  box-shadow: 7px 7px 7px rgba(64, 2, 100, 0.1);
   border-radius: 15px;
-  background-color: #f1e8f6e7;
+  background-color: #f9f2fb;
   margin: -10px 140px 5px;
-  padding: 3px;
+  padding: 10px;
 }
 
 footer a {
