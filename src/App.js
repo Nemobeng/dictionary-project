@@ -10,7 +10,7 @@ export default function App() {
       <div className="container">
         <div className="heading">
           <header>DICTIONARY</header>
-          <img src={logo} className="Logo" className="img-fluid" alt="logo" />
+          <img src={logo} className="Logo" alt="logo" />
         </div>
         <main>
           <Dictionary defaultKeyword="fire" />
